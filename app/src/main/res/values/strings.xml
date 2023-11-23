@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Foodie</string>
+
+    <string-array name="data_name">
+        <item>Foresthree Coffee</item>
+        <item>Potato Head Beach Club</item>
+        <item>Nook</item>
+        <item>Merah Putih</item>
+        <item>Ijen</item>
+        <item>Starbucks</item>
+    </string-array>
+
+    <string-array name="data_minutes">
+        <item>10-15 Mins</item>
+        <item>10-18 Mins</item>
+        <item>10-20 Mins</item>
+        <item>10-25 Mins</item>
+        <item>10-27 Mins</item>
+        <item>10-30 Mins</item>
+    </string-array>
+
+    <string-array name="data_miles">
+        <item>• 1Km</item>
+        <item>• 1,5Km</item>
+        <item>• 2Km</item>
+        <item>• 2,5Km</item>
+        <item>• 2,7Km</item>
+        <item>• 3Km</item>
+    </string-array>
+
+    <string-array name="data_star">
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+    </string-array>
+
+    <integer-array name="data_photos">
+        <item>@drawable/forest</item>
+        <item>@drawable/potato</item>
+        <item>@drawable/nook</item>
+        <item>@drawable/merahputih</item>
+        <item>@drawable/ijen</item>
+        <item>@drawable/sbux</item>
+    </integer-array>
+
+    <integer-array name="data_photos_more">
+        <item>@drawable/forest</item>
+        <item>@drawable/potato</item>
+        <item>@drawable/nook</item>
+        <item>@drawable/merahputih</item>
+        <item>@drawable/ijen</item>
+        <item>@drawable/sbux</item>
+        <item>@drawable/atmosphere</item>
+        <item>@drawable/burgerking</item>
+        <item>@drawable/bustan</item>
+        <item>@drawable/bersaudara</item>
+        <item>@drawable/belikopi</item>
+        <item>@drawable/maliogelato</item>
+        <item>@drawable/essential</item>
+    </integer-array>
+
+    <string-array name="data_star_more">
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+    </string-array>
+
+    <string-array name="data_miles_more">
+        <item>• 1Km</item>
+        <item>• 1,5Km</item>
+        <item>• 2Km</item>
+        <item>• 2,5Km</item>
+        <item>• 2,7Km</item>
+        <item>• 3Km</item>
+        <item>• 3,5Km</item>
+        <item>• 4,2Km</item>
+        <item>• 4,5Km</item>
+        <item>• 4,8Km</item>
+        <item>• 5,2Km</item>
+        <item>• 5,4Km</item>
+        <item>• 5,9Km</item>
+        <item>• 6,3Km</item>
+    </string-array>
+
+    <string-array name="data_minutes_more">
+        <item>10-15 Mins</item>
+        <item>10-18 Mins</item>
+        <item>10-20 Mins</item>
+        <item>10-25 Mins</item>
+        <item>10-27 Mins</item>
+        <item>10-30 Mins</item>
+        <item>10-38 Mins</item>
+        <item>10-45 Mins</item>
+        <item>10-49 Mins</item>
+        <item>10-54 Mins</item>
+        <item>10-58 Mins</item>
+        <item>10-62 Mins</item>
+        <item>10-65 Mins</item>
+    </string-array>
+
+    <string-array name="data_name_more">
+        <item>Foresthree Coffee</item>
+        <item>Potato Head Beach Club</item>
+        <item>Nook</item>
+        <item>Merah Putih</item>
+        <item>Ijen</item>
+        <item>Starbucks</item>
+        <item>At.Mosphere</item>
+        <item>Burger King</item>
+        <item>Bustan Allaca</item>
+        <item>Bersaudara</item>
+        <item>Belikopi</item>
+        <item>Malio Gelato</item>
+        <item>Essentials Coffee</item>
+    </string-array>
+</resources>

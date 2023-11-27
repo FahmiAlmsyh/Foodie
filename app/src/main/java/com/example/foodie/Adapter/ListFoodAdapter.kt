@@ -9,15 +9,17 @@ import com.bumptech.glide.Glide
 import com.example.foodie.databinding.ItemViewBinding
 import com.example.foodie.model.dataRestaurant
 
-class ListFoodAdapter (var listFood: ArrayList<dataRestaurant>):
+class ListFoodAdapter(var listFood: ArrayList<dataRestaurant>) :
     RecyclerView.Adapter<ListFoodAdapter.ListViewHolder>() {
     class ListViewHolder(val Binding: ItemViewBinding) : RecyclerView.ViewHolder(Binding.root) {
 
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
-        val binding = ItemViewBinding.inflate(LayoutInflater.from(parent.context),
-            parent, false)
+        val binding = ItemViewBinding.inflate(
+            LayoutInflater.from(parent.context),
+            parent, false
+        )
         return ListViewHolder(binding)
     }
 

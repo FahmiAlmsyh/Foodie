@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.widget.ImageView
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import androidx.recyclerview.widget.RecyclerView.LayoutManager
 import com.example.foodie.Adapter.ListRestAdapter
 import com.example.foodie.databinding.ActivityDetailRestaurantBinding
 import com.example.foodie.model.dataRestaurant
